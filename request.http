@@ -1,4 +1,0 @@
-GET /api/v1/partners/stores HTTP/1.1
-Host: api.petrushka-green.ru
-Accept: application/json
-Authorization: Bearer <token>
