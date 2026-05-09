@@ -1,2 +1,2 @@
 # Test---Effective-Mobile-DevOps-
-Решение ТЗ от компании.
+Решение ТЗ.
